@@ -1,4 +1,4 @@
-# 🌀 Portal Prints
+# 🌀 PortL Prints
 
 Welcome to **Portal Prints** — a collection of projects powering our end-to-end custom merch platform.
 
